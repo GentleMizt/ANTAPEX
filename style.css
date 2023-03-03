@@ -8,3 +8,8 @@ main{
     width: 80vw;
     background-color: black;
 }
+
+.top-main{
+    display: flex;
+    border: 1px solid red;
+}
