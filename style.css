@@ -20,9 +20,9 @@ main{
 
 .top-main{
     display: flex;
-    border: 1px solid red;
     justify-content: space-between;
     color: #fff;
+    padding: 1rem;
 }
 
 .top-main div{
