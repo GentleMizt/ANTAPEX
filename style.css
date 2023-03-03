@@ -36,3 +36,8 @@ main{
     width: 3.5rem;
     height: 3.5rem;
 }
+
+.circle span{
+   padding-top: 2rem;
+   border: 1px solid red;
+}
