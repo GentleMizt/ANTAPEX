@@ -25,9 +25,14 @@ main{
     color: #fff;
 }
 
+.top-main div{
+    text-align: center;
+}
+
 .circle{
     border-radius: 50%;
     background-color: var(--pry-yellow);
+    color: #fff;
     width: 3.5rem;
     height: 3.5rem;
 }
