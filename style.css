@@ -13,3 +13,7 @@ main{
     display: flex;
     border: 1px solid red;
 }
+
+.circle{
+    border-radius: 50%;
+}
