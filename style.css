@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+:root{
+    --pry-yellow: #FFBC01;
+}
 
 main{
     width: 91vw;
@@ -19,4 +22,5 @@ main{
 
 .circle{
     border-radius: 50%;
+    background-color: ;
 }
